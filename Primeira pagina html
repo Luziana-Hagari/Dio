@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <title>O QUE APRENDI NO CURSO HTML DA DIO</title>
+  </head>
+  <body>
+    <h1 id="inicio">O QUE APRENDI NO CURSO HTML DA DIO</h1>
+    <hr />
+
+    <ul>
+      <li><a href="#h1"> h1 ate h6</a></li>
+      <li><a href="#p"> p </a></li>
+      <li><a href="#mark"> mark</a></li>
+      <li><a href="#small"> small</a></li>
+      <li><a href="#i"> i </a></li>
+      <li><a href="#u"> u </a></li>
+      <li><a href="#strong"> strong</a></li>
+      <li><a href="#listas"> listas</a></li>
+      <li><a href="#a"> a</a></li>
+      <li><a href="#hr"> hr</a></li>
+      <li><a href="#sub"> sub e sup</a></li>
+      <li><a href="#blockoquote"> blockoquote</a></li>
+      <li><a href="#font"> font</a></li>
+      <li><a href="#abbr"> abbr</a></li>
+      <li><a href="#target"> target</a></li>
+      <li><a href="#title"> title</a></li>
+    </ul>
+    <hr />
+
+    <h2 id="h1">h1 ate h6</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>
+      A tag h1 é uma tag de titulo, ela existe ate a h6, cada numero mostra um
+      tamanho de titulo difente.
+    </p>
+
+    <h2 id="p">p</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>Tag de paragrafo</p>
+
+    <h2 id="mark">mark</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>Tag que deixa o texto sublinhado em amarelo</p>
+
+    <h2 id="small">small</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>Tag com a função de deixar o texto pequeno</p>
+
+    <h2 id="i">i</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>Tag para deixar o texto em negrito</p>
+
+    <h2 id="u">u</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>Tag usada para sublinhar um espaço definido de um texto</p>
+
+    <h2 id="strong">strong</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>Utilizado para dar ênfase a uma palavra ou frase de alta importância</p>
+
+    <h2 id="liatas">listas</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>
+      Temos dois tipos de listas ordenadas - OL(tem progresão numeros 1,2,3...)
+      e não ordenadas- UL ( tem como pontos)
+    </p>
+
+    <h2 id="a">a</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>
+      Tag é usada para criar uma âncora de onde vincular, o atributo href é
+      usado para onde endereçar o documento, e as palavras entre as tags de
+      abertura e fechamento da âncora serão exibidas como um hipervínculo
+    </p>
+
+    <h2 id="hr">hr</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>Tag usada para colocar uma linha entre os textos</p>
+
+    <h2 id="sub">sub e sup</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>
+      Tag Sup é usadad texto sobrescrito parece metade de um caráter acima da
+      linha normal, e às vezes é processado em uma fonte menor e a tag Sub texto
+      sobrescrito parece metade de um caráter acima da linha normal, e às vezes
+      é processado em uma fonte menor
+    </p>
+
+    <h2 id="blockoquote">blockoquote</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>
+      Tag de sitação,deixa o texto no meio,como colocamos sitação em artigo de
+      faculdade
+    </p>
+
+    <h2 id="font">font</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>Tag é usada para modificar o tipo do texto, o tamanho e a cor.</p>
+
+    <h2 id="abbr">abbr</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>
+      Tag representa uma abreviação e opcionalmente fornece uma descrição
+      completa para ela
+    </p>
+
+    <h2 id="target">target</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>
+      Tag usada para abrir o link da pagina na mesma janela ou em outra janela.
+      Ele tem quatro opções de uso porem usadas normalmente somente duas a Self
+      para abrir na mesma pagina e a Blank para abrir a pagina em outro aba
+    </p>
+
+    <h2 id="title">title</h2>
+    <small><a href="#inicio">(Voltar) </a></small>
+    <p>
+      Tag tendo dois usos, uma e mais importante é colocar o titulo na sua
+      pagina e a segunda função é usada para colocar uma frase logo apos colocar
+      o mouse no link da pagina para que isso acontece é necessario usar o
+      atributo href aparece no titulo e vai aparecer a frase que você escolher
+    </p>
+    <h3>Referencias</h3>
+
+    <ul>
+      <li>
+        <a
+          href="https://www.google.com/search?q=Tag+abbr+HTML&lr=lang_pt&biw=1366&bih=617&tbs=lr%3Alang_1pt&sxsrf=APwXEdf38Aek8y03NdzyUXRnYl8sUXV8_g%3A1682372593942&ei=8fdGZOWfOZeu5OUPmuyLkAM&ved=0ahUKEwil3N2mvsP-AhUXF7kGHRr2AjIQ4dUDCA8&uact=5&oq=Tag+abbr+HTML&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyBQgAEIAEMggIABAFEAcQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yCAgAEAgQHhAPMggIABAIEB4QDzoKCAAQRxDWBBCwAzoKCAAQigUQsAMQQzoHCAAQDRCABDoICAAQCBAHEB46CggAEAgQBxAeEA9KBAhBGABQrwFYwwVg6gtoAXABeACAAY0BiAGGApIBAzAuMpgBAKABAqABAcgBCsABAQ&sclient=gws-wiz-serp"
+        >
+          Saber sobre a tag abbr</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.google.com/search?q=Tag+font+HTML&lr=lang_pt&biw=1366&bih=617&tbs=lr%3Alang_1pt&sxsrf=APwXEdd6h4Y-W6qXmYOL7qWRH7W-qj-Y6g%3A1682372639761&ei=H_hGZJ2TLvnA5OUP9fG_4AY&ved=0ahUKEwjdnsq8vsP-AhV5ILkGHfX4D2wQ4dUDCA8&uact=5&oq=Tag+font+HTML&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgoIABBHENYEELADOgYIABAHEB46CAgAEAgQBxAeOggIABAFEAcQHjoKCAAQBRAHEB4QDzoGCAAQBRAeSgQIQRgAUMsBWMsBYN8OaAFwAXgAgAHOAYgB4wKSAQUwLjEuMZgBAKABAqABAcgBCMABAQ&sclient=gws-wiz-serp"
+        >
+          Saber sobre a tag font</a
+        >
+      </li>
+      <li>
+        <a href="https://www.w3bai.com/pt/tags/tag_sub.html#gsc.tab=01">
+          Saber sobre a tag sub</a
+        >
+      </li>
+    </ul>
+  </body>
+</html>
